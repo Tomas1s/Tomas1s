@@ -9,7 +9,7 @@ Hi, I'm Tomás Leaniz, a Backend Developer from Argentina with experience in Dja
 
 ## Feel free to connect with me:
 
-### 📧 Email: tomasleaniz.dev@gmail.com
+ 📧 Email: tomasleaniz.dev@gmail.com
 ### [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasleaniz/)
 
 
