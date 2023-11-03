@@ -4,8 +4,9 @@ Hi, I'm Tomás Leaniz, a Backend Developer from Argentina with experience in Dja
 
 ## :wrench: Technologies
 
-![PYTHON](https://img.icons8.com/color/30/python.png)![DJANGO](https://img.icons8.com/color/30/django.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
-
+<p>
+<img src="https://skillicons.dev/icons?i=py,django,ts,nodejs,express,mysql,postgres,dynamodb" />
+</p>
 
 ## Feel free to connect with me:
 
