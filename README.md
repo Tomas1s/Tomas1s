@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi 👋 , I'm Tomás Leaniz (🌐:computer::bulb::heart:)
+Hi, I'm Tomás Leaniz, a Backend Developer from Argentina with experience in Django and Django Rest Framework. I specialize in creating user-friendly web applications that deliver effective and innovative solutions. I'm passionate about learning and enthusiastic about emerging technologies like artificial intelligence, blockchain, and the future of web 3.0.
 
-<!--
-**Tomas1s/Tomas1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## :wrench: Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![PYTHON](https://img.icons8.com/color/30/python.png)![DJANGO](https://img.icons8.com/color/30/django.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+
+
+## Feel free to connect with me:
+
+### 📧 Email: tomasleaniz.dev@gmail.com
+### [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasleaniz/)
+
+
+
+
+:computer: Made with :heart: by **Tomás Leaniz**
+
+
