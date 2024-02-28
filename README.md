@@ -1,4 +1,4 @@
-# Hello there 👋 , I'm Tomás Leaniz (🌐:computer::bulb::heart:)
+# Hello there 👋 , I'm Tomás Leaniz 
 I'm Tomás Leaniz from Argentina with experience in backend development. I specialize in creating user-friendly web applications that deliver effective and innovative solutions. With a strong background in web development. I'm passionate about learning and enthusiastic about emerging technologies like artificial intelligence, blockchain, and the future of web 3.0.
 
 
