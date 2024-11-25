@@ -16,6 +16,6 @@ I'm Tomás Leaniz from Argentina with experience in backend development. I speci
 
 
 
-:computer: Made with :heart: by **Tomás Leaniz**
+:computer: :heart:
 
 
